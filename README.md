@@ -30,8 +30,8 @@ CREATED BY  : ULUL AZMI<br/>
 <br>
 Cara:
 buat database bernama: KKP --> Pilih database KKP --> tab import[PHPMYADMIN] --> import kkp.sql --> jalankan demo.exe<br/>
-Username: nabil <br/>
-Password: fq <br/>
+Username: admin <br/>
+Password: admin <br/>
 </br>
 Kalau work di demo.exe berarti work saat menjalankan project di netbeans<br/>
 <br/>
