@@ -38,7 +38,7 @@ CREATE TABLE `karyawan` (
 --
 
 INSERT INTO `karyawan` (`Username`, `Password`) VALUES
-('nabil', 'fq');
+('admin', 'admin');
 
 -- --------------------------------------------------------
 
